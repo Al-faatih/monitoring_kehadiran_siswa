@@ -6,6 +6,10 @@ class AttendanceProvider with ChangeNotifier {
     Student(name: 'Ali'),
     Student(name: 'Budi'),
     Student(name: 'Citra'),
+    Student(name: 'joko'),
+    Student(name: 'Dodi'),
+    Student(name: 'Huda'),
+    Student(name: 'Ayu'),
   ];
 
   final List<AttendanceHistory> _history = [];
